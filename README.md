@@ -59,9 +59,6 @@ Filter transactions by category when needed.
 
 Download a PDF report or reset to start fresh.
 
-📸 Screenshots
-
-(Add screenshots here if you’d like)
 
 👨‍💻 Developer
 
